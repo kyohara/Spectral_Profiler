@@ -1,0 +1,11 @@
+{
+	"_comment":"dayは必ず8桁で指定してください,また,sp_typeはDN,rad,refの3種類から選択してください",
+	"start_day":20081001,
+	"stop_day":20081002,
+	"max_latitude":90,
+	"min_latitude":88,
+	"max_longitude":200,
+	"min_longitude":10,
+	"sp_type":"ref",
+	"water_absorption":true
+}
